@@ -3,10 +3,10 @@
 "name": "Flutter Multi-Platform Builder",
 "version": "2.0.0",
 "main": "main.js",
-"description": "Build Flutter APKs and multi-platform apps",
+"description": "Build Flutter APK and multi platform apps using GitHub Actions",
 "icon": "icon.svg",
 "author": "YAMMY",
 "homepage": "https://github.com/YaminDeveloper/flutter-builder-plugin",
-"minVersionCode": 290,
+"minVersionCode": 280,
 "price": 0
 }
