@@ -1,0 +1,12 @@
+{
+  "id": "flutter-multi-builder",
+  "name": "Flutter Multi-Platform Builder",
+  "version": "2.0.0",
+  "main": "main.js",
+  "description": "Build Flutter APKs and multi-platform apps (Android, iOS, Web, Windows, Linux, macOS) via GitHub Actions — directly from Acode on your phone.",
+  "icon": "icon.svg",
+  "author": "YAMMY",
+  "homepage": "https://github.com/yourname/flutter-multi-builder",
+  "minVersionCode": 290,
+  "price": 0
+}

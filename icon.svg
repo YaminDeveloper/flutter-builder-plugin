@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Background -->
+  <rect width="64" height="64" rx="14" fill="#0D1117"/>
+  <!-- Flutter logo -->
+  <path d="M18 38L29 27H51L29 49L18 38Z" fill="#54C5F8"/>
+  <path d="M18 38L25.5 30.5L29 34L22.5 40.5L18 38Z" fill="#01579B"/>
+  <path d="M29 49L22.5 43L29 36.5L35.5 43L29 49Z" fill="#29B6F6"/>
+  <path d="M29 27L13 27L21 19L37 19L29 27Z" fill="#54C5F8"/>
+  <!-- Gear overlay bottom right -->
+  <circle cx="48" cy="48" r="10" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+  <circle cx="48" cy="48" r="4" stroke="#54C5F8" stroke-width="1.5"/>
+  <path d="M48 40v2M48 54v2M40 48h2M54 48h2M42.34 42.34l1.41 1.41M52.25 52.25l1.41 1.41M42.34 53.66l1.41-1.41M52.25 43.75l1.41-1.41" stroke="#54C5F8" stroke-width="1.2" stroke-linecap="round"/>
+</svg>
