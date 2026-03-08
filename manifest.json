@@ -6,7 +6,7 @@
   "description": "Build Flutter APKs and multi-platform apps (Android, iOS, Web, Windows, Linux, macOS) via GitHub Actions — directly from Acode on your phone.",
   "icon": "icon.svg",
   "author": "YAMMY",
-  "homepage": "https://github.com/yourname/flutter-multi-builder",
+  "homepage": "https://github.com/YaminDeveloper/flutter-builder-plugin",
   "minVersionCode": 290,
   "price": 0
 }
